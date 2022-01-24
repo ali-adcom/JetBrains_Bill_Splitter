@@ -8,7 +8,6 @@ __pycache__/
 *.so
 
 *.yaml
-requirements.txt
 /.idea
 
 
